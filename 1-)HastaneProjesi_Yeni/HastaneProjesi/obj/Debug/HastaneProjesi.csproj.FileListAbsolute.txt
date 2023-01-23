@@ -1,0 +1,29 @@
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe.config
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.pdb
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.AssemblyReference.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Doktorlar.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Form1.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Hastalar.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Poliklinik.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Properties.Resources.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Secenekler.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.GenerateResource.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.exe
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.pdb
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\bin\Debug\HastaneProjesi.exe.config
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\bin\Debug\HastaneProjesi.exe
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\bin\Debug\HastaneProjesi.pdb
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.Doktorlar.resources
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.Form1.resources
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.Hastalar.resources
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.Poliklinik.resources
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.Properties.Resources.resources
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.Secenekler.resources
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.exe
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.pdb
+C:\Users\Dell\Desktop\visual uygulamalar\uygulamalar\Winformamasa\HastaneProjesi_Yeni\HastaneProjesi\obj\Debug\HastaneProjesi.Rapor.resources
